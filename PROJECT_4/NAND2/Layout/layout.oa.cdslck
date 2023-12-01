@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      axe210023
+HostName                       engnx05a.utdallas.edu
+ProcessIdentifier              6341
+ProcessCreationTime_UTC        1666676404
+ProcessCreationTime_Readable   Tue Oct 25 00:40:04 2022 CDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/011/a/ax/axe210023/cad/gf65/inverter_project4/NAND2/layout/layout.oa.cdslck
+TimeEditLocked                 Tue Oct 25 15:32:32 2022 CDT

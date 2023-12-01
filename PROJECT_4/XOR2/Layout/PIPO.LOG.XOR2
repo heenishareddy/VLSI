@@ -1,0 +1,14 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.7-64b 04/26/2017 04:16 (sjfhw319) $
+          : sub-version  IC6.1.7-64b.500.11 
+Started at: 20-Oct-2022  18:15:30
+User Name : axe210023
+Host Name : engnx05a.utdallas.edu
+Directory : /home/011/a/ax/axe210023/cad/gf65
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+ERROR (XSTRM-22): Failed to open the technology file `inverter_project4' from library `inverter_project4'. Check that the library exists in the location defined in the 'cds.lib' file and that you have read permission to the technology file.
+INFO (XSTRM-273): Translation failed. '1' error(s) and '0' warning(s) found.
