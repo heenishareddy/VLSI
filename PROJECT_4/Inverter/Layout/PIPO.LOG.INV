@@ -1,0 +1,60 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.7-64b 04/26/2017 04:16 (sjfhw319) $
+          : sub-version  IC6.1.7-64b.500.11 
+Started at: 17-Oct-2022  17:35:23
+User Name : axe210023
+Host Name : engnx05a.utdallas.edu
+Directory : /home/011/a/ax/axe210023/cad/gf65
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+WARNING (XSTRM-20): Output Stream file '/home/011/a/ax/axe210023/cad/gf65/inverter_project4/INV/layout/INV.calibre.db' already exists. It will be overwritten.
+INFO (XSTRM-217): Reading the layer map file, /proj/cad/library/mosis/GF65_LPe/cmos10lpe_CDS_oa_dl064_11_20160415/cmos10lpe/cmos10lpe.layermap
+INFO (XSTRM-217): Reading the object map file, /proj/cad/library/mosis/GF65_LPe/cmos10lpe_CDS_oa_dl064_11_20160415/cmos10lpe/cmos10lpe.objectmap
+INFO (XSTRM-162): You have not used the viaMap option. If the OpenAccess design has native oaVia instances, use the -viaMap option for preserving oaVia instances in a Stream Out - Stream In round trip. Using the -viaMap option improves performance and VM usage of applications using the Streamed-In design.  For details on the viaMap option, refer to the "Design Data Translator's Reference" guide for XStream.
+
+Summary of Options :
+library                                 inverter_project4
+strmFile                                /home/011/a/ax/axe210023/cad/gf65/inverter_project4/INV/layout/INV.calibre.db
+topCell                                 INV
+view                                    layout
+runDir                                  /home/011/a/ax/axe210023/cad/gf65/inverter_project4/INV/layout/
+logFile                                 PIPO.LOG.INV
+layerMap                                /proj/cad/library/mosis/GF65_LPe/cmos10lpe_CDS_oa_dl064_11_20160415/cmos10lpe/cmos10lpe.layermap
+objectMap                                /proj/cad/library/mosis/GF65_LPe/cmos10lpe_CDS_oa_dl064_11_20160415/cmos10lpe/cmos10lpe.objectmap
+case                                    Preserve
+convertDot                              node
+
+INFO (XSTRM-223): 1. Translating cellView inverter_project4/INV/layout as STRUCTURE INV.
+WARNING (XSTRM-35): The objects in the layer-purpose pair 'prBoundary:boundary' are ignored. This is because the layer-purpose pair used in the design is not specified in the layer map file. Specify the layer-purpose pair in the layer map file and try again.
+WARNING (XSTRM-154): The object map file does not contain any mapping for the OpenAccess object 'Marker' and the sub-object 'annotation'. Therefore, these objects in the design will not be translated. To enable the translation of these objects in the Stream file, provide a valid mapping in the object map file. For details on the format of object map file, refer to the "Design Data Translator's Reference" guide for XStream.
+
+Summary of Objects Translated:
+	Scalar Instances:                       0
+	Array Instances:                        0
+	Polygons:                               0
+	Paths:                                  0
+	Rectangles:                             48
+	Lines:                                  0
+	Arcs:                                   0
+	Donuts:                                 0
+	Dots:                                   0
+	Ellipses:                               0
+	Boundaries:                             0
+	Area Blockages:                         0
+	Layer Blockages:                        0
+	Area Halos:                             0
+	Markers:                                0
+	Rows:                                   0
+	Standard Vias                           0
+	Custom Vias:                            0
+	CdsGen Vias:                            0
+	Pathsegs:                               0
+	Text:                                   4
+	TextDisplay:                            0
+	Cells:                                  1
+
+Elapsed Time: 0.3s   User Time: 0.1s   CPU Time: 0.0s   Peak VM: 9300KB
+INFO (XSTRM-234): Translation completed. '0' error(s) and '3' warning(s) found.

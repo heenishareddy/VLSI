@@ -1,0 +1,31 @@
+********************************************************************************
+Product   : Virtuoso(R) XStream Out
+Program   : @(#)$CDS: strmout version 6.1.7-64b 04/26/2017 04:16 (sjfhw319) $
+          : sub-version  IC6.1.7-64b.500.11 
+Started at: 23-Oct-2022  20:28:25
+User Name : axe210023
+Host Name : engnx05a.utdallas.edu
+Directory : /home/011/a/ax/axe210023/cad/gf65
+CADENCE Design Systems, Inc.
+********************************************************************************
+Info: Cellview Rev Num:99,  Tech Rev Num:59
+
+INFO (XSTRM-217): Reading the layer map file, /proj/cad/library/mosis/GF65_LPe/cmos10lpe_CDS_oa_dl064_11_20160415/cmos10lpe/cmos10lpe.layermap
+INFO (XSTRM-217): Reading the object map file, /proj/cad/library/mosis/GF65_LPe/cmos10lpe_CDS_oa_dl064_11_20160415/cmos10lpe/cmos10lpe.objectmap
+INFO (XSTRM-162): You have not used the viaMap option. If the OpenAccess design has native oaVia instances, use the -viaMap option for preserving oaVia instances in a Stream Out - Stream In round trip. Using the -viaMap option improves performance and VM usage of applications using the Streamed-In design.  For details on the viaMap option, refer to the "Design Data Translator's Reference" guide for XStream.
+
+Summary of Options :
+library                                 inverter_project4
+strmFile                                /home/011/a/ax/axe210023/cad/gf65/inverter_project4/MUX2#3a1/layout/MUX2:1.calibre.db
+topCell                                 MUX2:1
+view                                    layout
+runDir                                  /home/011/a/ax/axe210023/cad/gf65/inverter_project4/MUX2#3a1/layout/
+logFile                                 PIPO.LOG.MUX2:1
+layerMap                                /proj/cad/library/mosis/GF65_LPe/cmos10lpe_CDS_oa_dl064_11_20160415/cmos10lpe/cmos10lpe.layermap
+objectMap                                /proj/cad/library/mosis/GF65_LPe/cmos10lpe_CDS_oa_dl064_11_20160415/cmos10lpe/cmos10lpe.objectmap
+case                                    Preserve
+convertDot                              node
+
+ERROR (XSTRM-166): Translation Failed - Invalid character ':' in input name: MUX2:1.
+If problem persists, contact the Cadence Customer Support.
+INFO (XSTRM-273): Translation failed. '1' error(s) and '0' warning(s) found.
